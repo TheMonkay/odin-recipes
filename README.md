@@ -1,4 +1,9 @@
-This folfer contains my first attempt to create a website containing multiple links to different vietnamese recipes.
+This folder contains my first attempt to create a website containing multiple links to different vietnamese recipes.
+It is created using HTML and local directoies.
+
+
+The followinf section is added for nostalgic reasons.
+
 It is the 17th day of August in 2022. I am learning to code in my free time as an english teacher in Boun ma thuot, Vietnam.
 
 First time using github. No idea how to do it but will figure it out.
